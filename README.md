@@ -19,6 +19,3 @@ The platform includes several actively developed private repositories:
 **VendWish-E2E-Testing-FrontEnd** – Front-end reporting and analytics platform providing centralized dashboards and visualization for automated testing execution results and metrics.
 
 **VendWish-Games** – Game builder developed in C#, with containerized deployment via Docker on Google Cloud Run, integrated into the VendWish platform, and focused on orchestrating automated game builds and game telemetry routing.  
-
-The experience gained from working on these personal repositories demonstrates my ability to independently design, develop, deploy, and maintain complete cloud-based platforms and scalable enterprise systems while implementing advanced safety-critical and automated testing practices. These repositories showcase my capabilities within the cloud full stack development space and reflect my initiative in building and continuously evolving complex production-oriented systems.
-
