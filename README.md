@@ -2,7 +2,7 @@
 
 Below is a little about me and my personal ambitions.
 
-I have extensive experience in cloud-based full stack development and actively work on the ongoing development of my personal platform, VendWish, focused on automated vending technology. My work spans front-end development, backend microservices, cloud infrastructure, automated testing, fuzz testing, analytics, and game development.
+I have extensive experience in cloud-based full stack development and actively work on the ongoing development of my personal platform (portfolio/showcase project), VendWish, focused on e-commerce with an online arcade style reward system and automated vending technology. My work spans front-end development, backend microservices, cloud infrastructure, (end to end) automated testing, vulnerability and accessibility testing, analytics, and game development
 
 The platform includes several actively developed private repositories:
 
